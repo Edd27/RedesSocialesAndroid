@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Redes Sociales en Android</string>
+    <string name="facebook_app_id">1062971894323362</string>
+    <string name="fb_login_protocol_scheme">fb1062971894323362</string>
+    <string name="facebook_client_token">280791fc75de17f7c90285aec55f368c</string>
+    <string name="lbl_saludo_inicial">HOLA! Bienvenido de nuevo</string>
+    <string name="lbl_subtitulo_saludo">Para continuar inicia sesion en Facebook</string>
+</resources>
